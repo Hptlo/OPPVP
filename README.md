@@ -1,9 +1,9 @@
-#OPPVP
+# OPPVP
 
 
 
+## Commands
 
-Commands:
 > /help                ![help](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /rules               ![rules](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /spawn               ![spawn](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
