@@ -54,6 +54,10 @@ Doch da OPPvP ein Openworld Spielmodus ist, ist natürlich auch ein großer Ante
 
 ## Events
 
-> JoinEvent            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+> PlayerJoin            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+> PlayerLeave            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+> PlayerDeath            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+> PlayerKillPlayer            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+> PlayerKillPlayer            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 
 Complete Project: ![Complete](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
