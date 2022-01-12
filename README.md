@@ -5,15 +5,15 @@
 
 Commands:
 Commands:
-/help                ![help](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
-/rules               ![rules](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
-/spawn               ![spawn](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
-/back                ![back](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
-/msg                 ![msg](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
-/ignore              ![ignore](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
-/eco                 ![eco](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
-/kit                 ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
-/home                ![home](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
+/help                ![help](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+/rules               ![rules](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+/spawn               ![spawn](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+/back                ![back](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+/msg                 ![msg](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+/ignore              ![ignore](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+/eco                 ![eco](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+/kit                 ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+/home                ![home](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 /tpa                 ![tpa](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
 /tpahere             ![tpa](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
 /tpaaccept           ![tpa](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
