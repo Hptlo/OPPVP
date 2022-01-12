@@ -4,7 +4,6 @@
 
 
 Commands:
-<pre>
 > /help*Tabspace**Tabspace*![help](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /rules               ![rules](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /spawn               ![spawn](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
@@ -48,7 +47,6 @@ Commands:
 > /gladiator           ![gladiator](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /crates              ![crates](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /kit                 ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
-</pre>
 
 
 
