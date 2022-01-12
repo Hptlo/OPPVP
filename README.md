@@ -2,7 +2,7 @@
 
 ## Complete
 
-Complete Project: ![Complete](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
+Complete Project: ![Complete](https://progress-bar.dev/0.1/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
 
 ## Allgemein
 
