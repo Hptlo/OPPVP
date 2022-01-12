@@ -2,7 +2,9 @@
 
 ## Allgemein
 
-`OPPvP` ist ein Openworld Spielmodus, in dem man “overpowerte” Items hat, die One-hit-killen. Das heißt: Es geht alles darum ,wer den ersten Hit macht. Doch da OPPvP ein Openworld Spielmodus ist, ist natürlich auch ein großer Anteil an erkunden der Welt und errichten / raiden von Basen im Erlebnis mit inbegriffen.
+`OPPvP` ist ein Openworld Spielmodus, in dem man “overpowerte” Items hat, die One-hit-killen.
+Das heißt: Es geht alles darum ,wer den ersten Hit macht.
+Doch da OPPvP ein Openworld Spielmodus ist, ist natürlich auch ein großer Anteil an erkunden der Welt und errichten / raiden von Basen im Erlebnis mit inbegriffen.
 
 ## Commands
 
