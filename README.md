@@ -4,8 +4,9 @@
 
 
 Commands:
-> /help&nbsp;![help](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
-> /rules<pre><\pre>![rules](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+<pre>
+> /help                ![help](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
+> /rules               ![rules](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /spawn               ![spawn](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /back                ![back](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /msg                 ![msg](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
@@ -47,7 +48,7 @@ Commands:
 > /gladiator           ![gladiator](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /crates              ![crates](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > /kit                 ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
-
+</pre>
 
 
 
