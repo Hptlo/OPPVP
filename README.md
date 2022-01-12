@@ -1,5 +1,9 @@
 # OPPVP
 
+## Complete
+
+Complete Project: ![Complete](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
+
 ## Allgemein
 
 `OPPvP` ist ein Openworld Spielmodus, in dem man “overpowerte” Items hat, die One-hit-killen.
@@ -59,5 +63,3 @@ Doch da OPPvP ein Openworld Spielmodus ist, ist natürlich auch ein großer Ante
 > PlayerDeath            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > PlayerKillPlayer            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 > PlayerKillPlayer            ![kit](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
-
-Complete Project: ![Complete](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)
