@@ -25,7 +25,7 @@ Commands:
 /trash               ![tash](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 /stack               ![stack](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 /hat                 ![hat](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
-/skull               ![skull](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />   
+/skull               ![skull](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 /feed                ![feed](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 /heal                ![heal](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
 /fix                 ![fix](https://progress-bar.dev/0/?scale=100&title=Complete&width=200&color=babaca&suffix=%)<br />
